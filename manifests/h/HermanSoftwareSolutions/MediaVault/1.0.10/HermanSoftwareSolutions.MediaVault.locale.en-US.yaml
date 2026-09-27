@@ -4,10 +4,10 @@
 PackageIdentifier: HermanSoftwareSolutions.MediaVault
 PackageVersion: 1.0.10
 PackageLocale: en-US
-Publisher: Herman Software Solutions LImited
+Publisher: Herman Software Solutions Limited
 PackageName: MediaVault Desktop
 License: MIT License
-Copyright: Copyright © 2026 MediaVault — HERMAN Software Solutions
-ShortDescription: free youtube and multi site downloader with inapp preview mini player and no ads
+Copyright: Copyright © 2026 Herman Software Solutions Limited
+ShortDescription: Free YouTube and multi-site downloader with in-app preview, mini player, and no ads.
 ManifestType: defaultLocale
 ManifestVersion: 1.12.0
